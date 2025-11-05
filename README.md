@@ -12,7 +12,7 @@ An AI agent capable of generating high quality, ground-data-proved social media 
 - LangChain (for LLM chains)
 - Langsmith (for evaluation and monitoring)
 - OpenAI GPT4.1-mini (LLM)
-- Tavily Search tool (API)
+- Tavily Search tool (API) (for ground live data internet search and citations)
 
 ## Skills
 - Prompt Engineering
