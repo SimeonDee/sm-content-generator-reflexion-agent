@@ -1,0 +1,15 @@
+[project]
+name = "sm-content-generator-reflexion-agent"
+version = "0.1.0"
+description = "Add your description here"
+readme = "README.md"
+requires-python = ">=3.13"
+dependencies = [
+    "langchain>=1.0.3",
+    "langchain-community>=0.4.1",
+    "langchain-openai>=1.0.2",
+    "langgraph>=1.0.2",
+    "openai>=0.27.0",
+    "pydantic>=1.10.0",
+    "python-dotenv>=1.2.1",
+]

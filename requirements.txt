@@ -1,0 +1,8 @@
+langchain
+langchain-openai
+langchain_community
+langgraph
+openai>=0.27.0
+pydantic>=1.10.0
+python-dotenv
+
