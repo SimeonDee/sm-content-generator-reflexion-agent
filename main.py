@@ -1,4 +1,4 @@
-from src.chains import initial_responder_chain, revisor_responder_chain
+# from src.chains import initial_responder_chain, revisor_responder_chain
 
 
 def main():
