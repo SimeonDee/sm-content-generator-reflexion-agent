@@ -17,6 +17,7 @@ An AI agent capable of generating high quality, ground-data-proved social media 
 - ruff (for linting)
 - black (for code-quality checks)
 - mypy (for type-checking)
+- make (for generate build commands -- Makefile)
 
 ## Skills
 - Prompt Engineering
@@ -26,7 +27,7 @@ An AI agent capable of generating high quality, ground-data-proved social media 
 - Reflexion Agent Development
 - Unit Testing
 - Code quality compliance (linting, type-checking, formating)
-- Make
+- Project/Code Lifecycle CI/CD management (using make -- `Makefile`)
 
 
 ## Setups
