@@ -9,7 +9,7 @@ from dotenv import load_dotenv
 
 load_dotenv()
 
-llm = ChatOpenAI(model_name="gpt-4o")
+llm = ChatOpenAI(model="gpt-4o")
 
 initial_output_parser = PydanticToolsParser(tools=[QuestionResponse])
 revision_output_parser = PydanticToolsParser(tools=[RevisedResponse])

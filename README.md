@@ -18,6 +18,7 @@ An AI agent capable of generating high quality, ground-data-proved social media 
 - black (for code-quality checks)
 - mypy (for type-checking)
 - make (for generate build commands -- Makefile)
+- uv (package management)
 
 ## Skills
 - Prompt Engineering
