@@ -41,26 +41,26 @@ For help on the appropriate command to use, run the command below:
 ```
 
 ### 1. Environment Setup:
-- make install: Creates virtual environment and installs dependencies
-- make dev-setup: Sets up development environment with all tools
+- `make install`: Creates virtual environment and installs dependencies
+- `make dev-setup`: Sets up development environment with all tools
 
 ### 2. Development Tasks:
-- make run: Runs the application
-- make format: Formats code using black
-- make lint: Lints code using ruff
-- make type-check: Runs type checking with mypy
-- make test: Runs pytest tests
+- `make run`: Runs the application
+- `make format`: Formats code using black
+- `make lint`: Lints code using ruff
+- `make type-check`: Runs type checking with mypy
+- `make test`: Runs pytest tests
 
 ### 3. Maintenance:
-- make clean: Removes Python bytecode files and caches
-- make check-all: Runs all checks (format, lint, type-check, test)
+- `make clean`: Removes Python bytecode files and caches
+- `make check-all`: Runs all checks (format, lint, type-check, test)
 
 ### 4. Help:
-- make help: Shows available commands (default target)
+- `make help`: Shows available commands (default target)
 
 ## Steps and Features Implemented:
 
-- Pass
+- [To be updated...]
 
 ## Sample Response
 
