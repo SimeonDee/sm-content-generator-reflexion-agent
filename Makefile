@@ -6,7 +6,7 @@ BIN = $(VENV)/bin
 # Application settings
 MAIN = main.py
 PACKAGE = src
-TEST_DIR = tests
+TEST_DIR = src/tests
 
 # Install all dependencies
 .PHONY: install
@@ -47,7 +47,7 @@ lint:
 .PHONY: test
 test:
 	$(BIN)/pip install pytest
-	$(BIN)/pytest $(TEST_DIR)
+	$(BIN)/pytest $(TEST_DIR) -v
 
 # Run type checking with mypy
 .PHONY: type-check
